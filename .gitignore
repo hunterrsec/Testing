@@ -1,0 +1,5 @@
+# Ignore sensitive zipped files or credentials
+*.7z
+*.zip
+*.env
+secrets/
