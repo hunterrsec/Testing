@@ -3,7 +3,7 @@
 # === CONFIGURATION ===
 
 ENCRYPTION_KEY="eFTbxnvTGHyVnShSR3OxO6PGFv6L7IJHjmvRNH2JX4g="
-SENSITIVE_FILE="/home/username/Gitpush/Testfile.py" # Change this to your path
+SENSITIVE_FILE="D:\cyber_security\Test.py" # Change this to your path
 
 AUTHORIZED_MACS=(
     "04:33:C2:C9:B3:18"
